@@ -2,7 +2,7 @@ Nirosha Task
 
 npm i -g create-react-app
 
-create-react-app my-task
+create-react-app niroshaTask
 
 npm install react react-redux redux-thunk --save
 
